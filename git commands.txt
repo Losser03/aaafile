@@ -1,0 +1,20 @@
+git Commadns
+
+
+1.git status
+2.git init
+3.git add .(staging processs..)
+git add filename(to be added)(staging processs.....)
+4.git commit -m "The commiting message"
+5.git rm filename(Filename to be removed...)
+6.git mv originalfilename newfilename(Changeing of the file name....)
+7.git commit -a -m "The commit message"(This is used to skip the staging process...)
+8.git clone projectlink,,,,
+9.git log
+10.git diff(compare staged file with unstaged n prints the changes...)
+11.git log -p(commit with difference which are removed n addeddd)
+12.git log --pretty=oneline
+13.git log --since=2.days(For commit withinn)
+14.. git log --pretty=format:"%h -- %an"(Author nname)
+git log --pretty=format:"%h -- %an"
+15.git commit --amend (This is used to modify the last commitcomment)
